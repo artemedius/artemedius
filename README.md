@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artemedius
 - 👀 I’m interested in Data Science and Analysis
 - 🌱 I’m currently learning Timeseries forecasting
-- 💞️ I’m looking to collaborate on a timeseries forecasting
+- 💞️ I’m looking to collaborate on a timeseries forecasting project
 - 📫 How to reach me: artem.i.fedosov@mail.ru
 
 <!---
