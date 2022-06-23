@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artemedius
+- 👋 Hi, I’m Artem
 - 👀 I’m interested in Data Science and Analysis
 - 🌱 I’m currently learning Timeseries forecasting
 - 💞️ I’m looking to collaborate on a timeseries forecasting project
